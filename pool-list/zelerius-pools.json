@@ -10,10 +10,10 @@
         },
         {
             "name" : "[2]OfficialZeleriusMiningPool",
-            "url" : "http://pool.bitsumcash.org/",
-            "api" : "http://pool.bitsumcash.org:8118/",
+            "url" : "https://pool2.zelerius.org/",
+            "api" : "https://pool2.zelerius.org:7119/",
             "type" : "node.js",
-            "miningAddress" : "pool.bitsumcash.org"
+            "miningAddress" : "pool2.zelerius.org"
         },
         {
             "name" : "Crypto9Coin",
