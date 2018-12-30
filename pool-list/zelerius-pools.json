@@ -16,13 +16,6 @@
             "miningAddress" : "pool2.zelerius.org"
         },
         {
-            "name" : "Crypto9Coin",
-            "url" : "https://crypto9coin.cf/zls/",
-            "api" : "https://crypto9coin.cf:48084/",
-            "type" : "node.js",
-            "miningAddress" : "crypto9coin.cf"
-        },
-        {
             "name" : "ZeleriusPoolRu",
             "url" : "http://pool.zelerius.ru/",
             "api" : "http://pool.zelerius.ru:8117/",
@@ -42,13 +35,6 @@
             "api" : "http://zls.sytes.net:8117/",
             "type" : "node.js",
             "miningAddress" : "zls.sytes.net"
-        },
-        {
-            "name" : "ZeleriusMultipools",
-            "url" : "https://zls.multipools.club/",
-            "api" : "https://zls.multipools.club/api/",
-            "type" : "node.js",
-            "miningAddress" : "stratum-zls.multipools.club"
         },
         {
             "name" : "Youpool",
