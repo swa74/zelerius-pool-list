@@ -17,24 +17,24 @@
         },
         {
             "name" : "ZeleriusPoolRu",
-            "url" : "http://pool.zelerius.ru/",
-            "api" : "http://pool.zelerius.ru:8117/",
+            "url" : "https://pool.zelerius.ru/",
+            "api" : "https://pool.zelerius.ru:8119/",
             "type" : "node.js",
             "miningAddress" : "pool.zelerius.ru"
         },
         {
-            "name" : "Youpool",
-            "url" : "http://youpool.io/ZLS/",
-            "api" : "http://zls.youpool.io:8121/",
+            "name" : "Crypto9coin",
+            "url" : "https://crypto9coin.cf/zls/",
+            "api" : "https://crypto9coin.cf:48084/",
             "type" : "node.js",
-            "miningAddress" : "zls.youpool.io"
+            "miningAddress" : "crypto9coin.cf"
         },
         {
-            "name" : "Van0xyz",
-            "url" : "http://pool.van0.xyz/",
-            "api" : "http://pool.van0.xyz:8117/stats/",
+            "name" : "SuperpoolsOnline",
+            "url" : "http://zls.superpools.online/",
+            "api" : "http://zls.superpools.online/api",
             "type" : "node.js",
-            "miningAddress" : "pool.van0.xyz"
+            "miningAddress" : "zls.superpools.online"
         }
     ]
 }
