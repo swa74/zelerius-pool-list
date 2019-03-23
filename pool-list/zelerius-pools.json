@@ -35,6 +35,14 @@
             "api" : "http://zls.superpools.online/api",
             "type" : "node.js",
             "miningAddress" : "zls.superpools.online"
+        },
+		{
+            "name" : "kiramine",
+            "url" : "https://zls.kiramine.com/",
+            "api" : "https://zls.kiramine.com:9001",
+            "type" : "node.js",
+            "miningAddress" : "zls.kiramine.com"
         }
+		
     ]
 }
