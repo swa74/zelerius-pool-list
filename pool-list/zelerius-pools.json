@@ -29,6 +29,13 @@
             "type" : "node.js",
             "miningAddress" : "crypto9coin.cf"
         },
+ {
+            "name" : "Cryptohispano",
+            "url" : "https://zls.cryptohispano.net",
+            "api" : "https://zls.cryptohispano.net/api/",
+            "type" : "node.js",
+            "miningAddress" : "zls.cryptohispano.net"
+        },
         {
             "name" : "SuperpoolsOnline",
             "url" : "http://zls.superpools.online/",
