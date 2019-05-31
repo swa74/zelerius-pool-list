@@ -2,18 +2,11 @@
     "pools" :
     [
         {
-            "name" : "[1]OfficialZeleriusMiningPool",
+            "name" : "OfficialZeleriusMiningPool",
             "url" : "https://pool.zelerius.org/",
-            "api" : "https://pool.zelerius.org:8119/",
+            "api" : "https://pool.zelerius.org:4010/",
             "type" : "node.js",
             "miningAddress" : "pool.zelerius.org"
-        },
-        {
-            "name" : "[2]OfficialZeleriusMiningPool",
-            "url" : "https://pool2.zelerius.org/",
-            "api" : "https://pool2.zelerius.org:7119/",
-            "type" : "node.js",
-            "miningAddress" : "pool2.zelerius.org"
         },
         {
             "name" : "ZeleriusPoolRu",
@@ -22,13 +15,6 @@
             "type" : "node.js",
             "miningAddress" : "pool.zelerius.ru"
         },
-        {
-            "name" : "Crypto9coin",
-            "url" : "https://crypto9coin.cf/zls/",
-            "api" : "https://crypto9coin.cf:48084/",
-            "type" : "node.js",
-            "miningAddress" : "crypto9coin.cf"
-        },
 	{
             "name" : "Cryptohispano",
             "url" : "https://zls.cryptohispano.net/",
@@ -36,19 +22,12 @@
             "type" : "node.js",
             "miningAddress" : "zls.cryptohispano.net"
         },
-        {
-            "name" : "SuperpoolsOnline",
-            "url" : "http://zls.superpools.online/",
-            "api" : "http://zls.superpools.online/api",
+	{
+            "name" : "Fairhash",
+            "url" : "https://zelerius.fairhash.org/",
+            "api" : "https://zelerius.fairhash.org/api/",
             "type" : "node.js",
-            "miningAddress" : "zls.superpools.online"
-        },
-		{
-            "name" : "kiramine",
-            "url" : "https://zls.kiramine.com/",
-            "api" : "https://zls.kiramine.com:9001",
-            "type" : "node.js",
-            "miningAddress" : "zls.kiramine.com"
+            "miningAddress" : "elerius.fairhash.org"
         }
 		
     ]
