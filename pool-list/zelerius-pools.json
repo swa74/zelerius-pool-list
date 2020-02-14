@@ -28,6 +28,13 @@
             "api" : "https://zelerius.fairhash.org/api/",
             "type" : "node.js",
             "miningAddress" : "elerius.fairhash.org"
+        },
+        {
+            "name" : "Vip69",
+            "url" : "https://zls.vip69.ru/",
+            "api" : "https://vip69.ru:8210/",
+            "type" : "node.js",
+            "miningAddress" : "vip69.ru"
         }
 		
     ]
